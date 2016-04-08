@@ -1,0 +1,43 @@
+		canvas {
+			position: absolute;
+			top: 0px;
+			left: 0px;
+		}
+
+
+	#container{
+		position: absolute;
+		top: 500px;
+		left: 0px;
+		
+		width: 800px;
+	}
+	button {
+		font-size: 30px;
+		font-family: TimesNewRoman;
+		background-color: #eee;
+		width: 40%;
+		height: 50px;
+	}
+	button:hover {
+		background-color: #ddd;
+	}
+
+	#score {
+		width: 19%;
+		background-color: #444;
+		color: white;
+	}
+		#score:hover{
+			background-color: #444;
+		}
+
+	#description{
+		font-size: 18px;
+		font-family: consolas;
+	}
+
+	#background {
+		position: absolute;
+		background-color: #ceffff;
+	}
